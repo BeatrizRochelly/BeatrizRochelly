@@ -1,7 +1,7 @@
 ## Olá! Eu sou Beatriz Rochelly 👋
 
 - 👀 Estou interessada em aprender ainda mais sobre tecnologia.
-- 🌱 Atualmente estou aprendendo a ser um desenvolvedora Java Full Stack.
+- 🌱 Sou um desenvolvedora Java Full Stack Jr.
 - 💞️ Estou procurando colaborar em projetos que ajudem outras pessoas.
 - 📫 Como chegar até mim: https://www.linkedin.com/in/beatriz-rochelly/
 
