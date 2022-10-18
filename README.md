@@ -17,7 +17,7 @@
  <img align="center" alt="Bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Bia-ANGULAR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
  <img align="center" alt="Bia-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/tOw7h5l.png" />
+ <img align="right" alt="Bia-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/tOw7h5l.png" />
  </div>
  
  ##
