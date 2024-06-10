@@ -4,6 +4,7 @@
 - 🌱 Sou uma desenvolvedora Java Full Stack Jr.
 - 💞️ Estou procurando colaborar em projetos que ajudem outras pessoas.
 - 📫 Como chegar até mim: https://www.linkedin.com/in/beatriz-rochelly/
+- 📚 Cursando Analise e Desenvolvemento de Sistemas. 
 
 <div align="center">
   <a href="https://github.com/BeatrizRochelly">
